@@ -13,7 +13,7 @@
 ## ⚙️ Instalación
 1. Clonar el repositorio:
     ```sh
-    git@github.com:lucsducks/izifile-backend-public.git
+    git clone git@github.com:lucsducks/izifile-backend-public.git
     cd izifile-backend
     ```
 
