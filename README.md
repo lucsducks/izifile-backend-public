@@ -52,7 +52,7 @@
 
 ## 🚀 Uso
 
-Después de seguir los pasos anteriores, tu servidor estará configurado para conectarse con el Frontend que se encuentra en este repositorio [Izifile Frontend](http://localhost:3012/api). Puedes probar las rutas y funcionalidades utilizando herramientas como Postman.
+Después de seguir los pasos anteriores, tu servidor estará configurado para conectarse con el Frontend que se encuentra en este repositorio [Izifile Frontend](git@github.com:lucsducks/izifile-frontend.git). Puedes probar las rutas y funcionalidades utilizando herramientas como Postman.
 
 ## 📄 Licencia
 
@@ -61,3 +61,4 @@ Este proyecto está bajo la Licencia MIT.
 ## 📬 Contacto
 
 Para cualquier consulta, por favor, contacta al desarrollador a través de 2021460003@unheval.pe.
+![Estructura del Proyecto](\assets\image.png)
