@@ -61,4 +61,4 @@ Este proyecto está bajo la Licencia MIT.
 ## 📬 Contacto
 
 Para cualquier consulta, por favor, contacta al desarrollador a través de 2021460003@unheval.pe.
-![Estructura del Proyecto](\assets\image.png)
+![Estructura del Proyecto](/assets/image.png)
